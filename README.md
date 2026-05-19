@@ -1,5 +1,5 @@
-#  Hi , I'm EKAN 
-A passionate software developer || Frontend Developer | React and React native || Based in Nigeria 🇳🇬
+#   I'm EKAN 
+A software developer || Frontend Developer | React and React native  || Based in Nigeria 🇳🇬
 
 Email Me @ **idemekan20@gmail.com** For Collaboration/Project or Anything Else. 
 
