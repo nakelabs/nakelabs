@@ -4,7 +4,7 @@ A software developer || Frontend Developer | React and React native  || Based in
 Email Me @ **idemekan20@gmail.com** For Collaboration/Project or Anything Else. 
 
 -  Studying: Computer Science @ AUST
--  **I’m currently learning:** Cybersecurity 
+-  **I’m currently learning:** Java 
 -  **Ask me about:** Collaboration, Tech Support
 - Passionate about clean UI, functional UX, and real-world impact
   
