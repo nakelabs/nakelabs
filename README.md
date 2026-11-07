@@ -1,12 +1,8 @@
 #   I'm EKAN 
-A software developer || Frontend Developer | React and React native  || Based in Nigeria 🇳🇬
+A software developer 
 
 Email Me @ **idemekan20@gmail.com** For Collaboration/Project or Anything Else. 
 
--  Studying: Computer Science @ AUST
--  **I’m currently learning:** Java 
--  **Ask me about:** Collaboration, Tech Support
-- Passionate about clean UI, functional UX, and real-world impact
   
 ##  Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Few-Coat-1849) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idemekan20@gmail.com) 
